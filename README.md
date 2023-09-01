@@ -2,4 +2,4 @@
 
 -----------------------------------------------------------
 
-This is a simple assignment to perform simple sentiment analysis with the help of LLM prompts
+This is a simple assignment to perform simple sentiment analysis with the help of LLM prompts.
